@@ -1,4 +1,4 @@
-Projet Chat Multi-utilisateurs
+Projet Chat collaboChat
 ==============================
 
 Bienvenue sur mon projet
