@@ -15,4 +15,6 @@ Pour commencer, je recommande de suivre ces étapes :
 4.  **Création de compte (deuxième compte) :** Sur ce deuxième navigateur, créez un autre compte en suivant les mêmes étapes que précédemment.
 5.  **Connexion au chat :** Sur les deux navigateurs, connectez-vous avec les deux comptes que vous venez de créer.
 6.  **Commencez à chatter :** Maintenant que vous êtes connecté avec deux profils différents sur deux navigateurs distincts, vous pouvez commencer à échanger des messages entre les deux utilisateurs.
-
+7.  **Page admin: pour tester la page admin identifiant : admin@admin
+8.                                          mdp         : admin12345678910
+9.                                          confirmation: 2425268485867913
